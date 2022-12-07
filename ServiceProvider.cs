@@ -38,10 +38,5 @@ namespace PetWithOleksii
             collection.AddSingleton(config).AddSingleton(settings);
             return collection.BuildServiceProvider();
         }
-
-        public IWebDriver GetDriver()
-        {
-            
-        }
     }
 }
