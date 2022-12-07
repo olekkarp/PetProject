@@ -1738,11 +1738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Projects/PetWithOleksii/PetWithOleksii/PetWithOleksii.csproj",
+      "projectUniqueName": "/Users/mac/PetProject/PetWithOleksii.csproj",
       "projectName": "PetWithOleksii",
-      "projectPath": "/Users/mac/Projects/PetWithOleksii/PetWithOleksii/PetWithOleksii.csproj",
+      "projectPath": "/Users/mac/PetProject/PetWithOleksii.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Projects/PetWithOleksii/PetWithOleksii/obj/",
+      "outputPath": "/Users/mac/PetProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.config/NuGet/NuGet.Config"

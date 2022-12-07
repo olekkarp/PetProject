@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Srx2ClNRPFr4WnVLYGuqUj2KWvUX2TPzm4RrY0NqBYiSTj9ugKCZZtjhJhPxaOtd2l6Xb5gNDV9IxVfKfNhPVQ==",
+  "dgSpecHash": "nlATGV/vzH0JlHIt+RqHdcievnxe3W+DYS7Xc76MXANOKiEK5EVihDFaJqM/2w8PE1GAgxXVjaxAM36TAKyNeg==",
   "success": true,
-  "projectFilePath": "/Users/mac/Projects/PetWithOleksii/PetWithOleksii/PetWithOleksii.csproj",
+  "projectFilePath": "/Users/mac/PetProject/PetWithOleksii.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/microsoft.codecoverage/17.4.0/microsoft.codecoverage.17.4.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.configuration/2.0.0/microsoft.extensions.configuration.2.0.0.nupkg.sha512",

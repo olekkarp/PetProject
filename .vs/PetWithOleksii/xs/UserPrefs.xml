@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CF09B05F-E5B2-4D0B-86CE-3DAB524CF070}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceProvider.cs">
+    <Files>
+      <File FileName="IDriverProvider.cs" Line="8" Column="32" />
+      <File FileName="ServiceProvider.cs" Line="40" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PetWithOleksii" expanded="True">
+            <Node name="PetWithOleksii" expanded="True">
+              <Node name="ServiceProvider.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PetWithOleksii" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PetWithOleksii PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
